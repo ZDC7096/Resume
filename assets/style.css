@@ -1,0 +1,87 @@
+img { margin: 5px;
+  border: 1px solid #ccc;
+  float: inline-end;
+  width: 500px;}
+h1{color: whitesmoke;}
+body{background-color: rgb(45, 54, 55);}
+img{display:block;
+margin-left: auto;
+margin-right: auto;
+}
+li{
+  color: black;
+}
+h1{text-align: center;}
+h3{color: whitesmoke;}
+h3{text-align: center;}
+h2{color: whitesmoke;}
+ol{color: whitesmoke;}
+ol{text-indent: 50px;}
+ol{list-style: none;
+    margin: 0;
+    padding: 1;}
+    h2{text-align: center;}
+    .workexp{
+      display: flex;
+      color: black;
+      font-size: larger;
+      height: 200px;
+      word-spacing: 2px;
+    }
+    .usps{
+      background-color: whitesmoke;
+      padding: 2em;
+      border-radius: 25px;
+    }
+    .sonic{
+      background-color: whitesmoke;
+      padding: 2em;
+      border-radius: 25px;
+    }
+    .azd{
+      background-color: whitesmoke;
+      padding: 2em;      
+      border-radius: 25px;
+    }
+    .traits{
+      font-size: larger;
+      color: whitesmoke;
+    }
+    .litrait{
+      color: whitesmoke;
+    }
+    .references{
+      background-color: whitesmoke;
+      width: 200px;
+      position: relative; left: 90px; bottom: 1110px;
+      font-size: larger;
+      height: 340px;
+      word-spacing: 2px;
+      border-radius: 25px;
+      width: 20em;
+    }
+    .ref{
+      padding-left: 0px;
+      position: relative; right: 20px;
+    }
+    #ref{
+      color: black;
+    }
+    .aboutme{
+      background-color: whitesmoke;
+      width: 200px;
+      position: relative; left: 1030px; bottom: 750px;
+      font-size: larger;
+      height: 340px;
+      word-spacing: 2px;
+      border-radius: 25px;
+      width: 20em;
+    }
+    .abtme{
+      padding-left: 0px;
+      position: relative; right: 20px;
+    }
+    .contact{
+      position: relative; bottom: 700px;
+    }
+    
